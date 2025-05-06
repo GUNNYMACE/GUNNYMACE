@@ -17,5 +17,5 @@ I am current not working on any projects at the moment
 # Past Projects 📘
 
 ### Better Now Playing
-+ A app for *iOS** and *WatchOS*, made on *XCode* with *Swift*.
++ A app for *iOS* and *WatchOS*, made on *XCode* with *Swift*.
 + It connects to spotify to get the currently playing song, then sends it to your wrist to display as a Widget.
