@@ -12,7 +12,7 @@ Current Languages I know the basics are and could use some learning in:
 + Python
 
 # Current Projects 📖
-I am current not working on any projects at the moment
+I am current not working on any big projects at the moment
 
 # Past Projects 📘
 
