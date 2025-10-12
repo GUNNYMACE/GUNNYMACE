@@ -12,7 +12,7 @@ Current Languages I know the basics are and could use some learning in:
 + Python
 
 # Current Projects 📖
-I am current not working on any big projects at the moment
+I am working on Roll the Dice, and a new app that is in the very early stages of development.
 
 # Past Projects 📘
 
