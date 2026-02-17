@@ -11,7 +11,8 @@ Current Languages I know the basics of and could use some learning in:
 + Python
 
 # Current Projects 📖
-I am working on Roll the Dice, and a new app that is in the very early stages of development.
+I am currently working on a new app called BodyCam. An app that lets you "clip" whatever it's recording.
+I am also taking a class at MCC about learning C++, so BodyCam is a slower-paced side project.
 
 # Past Projects 📘
 
